@@ -1,0 +1,6 @@
+.env
+get_key.py
+invoice.db
+.vscode/
+__pycache__/
+donut-finetuned/

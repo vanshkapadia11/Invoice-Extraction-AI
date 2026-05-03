@@ -1,0 +1,24 @@
+2026-05-02 12:20:20 | INFO     | Loading model...
+2026-05-02 12:20:21 | INFO     | Model ready on cpu ✅
+2026-05-02 12:20:29 | INFO     | Admin listed all API keys
+2026-05-02 12:21:14 | INFO     | Parsing invoice | file=sample_invoice.png | tier=enterprise | ip=127.0.0.1
+2026-05-02 12:21:21 | INFO     | endpoint=/parse-invoice | status=200 | latency=7354.27ms | key=admin-e5715f... | ip=127.0.0.1 | file=sample_invoice.png
+2026-05-03 12:05:22 | INFO     | Loading model...
+2026-05-03 12:05:24 | INFO     | Model ready on cpu ✅
+2026-05-03 12:05:30 | INFO     | Parsing invoice | file=sample_invoice.png | tier=enterprise | ip=127.0.0.1
+2026-05-03 12:05:42 | INFO     | endpoint=/parse-invoice | status=200 | latency=11364.89ms | key=admin-e5715f... | ip=127.0.0.1 | file=sample_invoice.png
+2026-05-03 12:09:40 | INFO     | Parsing invoice | file=sample_invoice_1.jpg | tier=enterprise | ip=127.0.0.1
+2026-05-03 12:09:45 | INFO     | endpoint=/parse-invoice | status=200 | latency=4459.65ms | key=admin-e5715f... | ip=127.0.0.1 | file=sample_invoice_1.jpg
+2026-05-03 12:10:54 | INFO     | Parsing invoice | file=sample_invoice.png | tier=enterprise | ip=127.0.0.1
+2026-05-03 12:11:02 | INFO     | endpoint=/parse-invoice | status=200 | latency=7295.45ms | key=admin-e5715f... | ip=127.0.0.1 | file=sample_invoice.png
+2026-05-03 12:12:00 | INFO     | Parsing invoice | file=test_invoice.png | tier=enterprise | ip=127.0.0.1
+2026-05-03 12:12:05 | INFO     | endpoint=/parse-invoice | status=200 | latency=4634.8ms | key=admin-e5715f... | ip=127.0.0.1 | file=test_invoice.png
+2026-05-03 12:13:58 | INFO     | Parsing invoice | file=sample_invoice.png | tier=enterprise | ip=127.0.0.1
+2026-05-03 12:14:07 | INFO     | endpoint=/parse-invoice | status=200 | latency=8540.08ms | key=admin-e5715f... | ip=127.0.0.1 | file=sample_invoice.png
+2026-05-03 12:14:53 | INFO     | Admin listed all API keys
+2026-05-03 12:15:29 | INFO     | Parsing invoice | file=sample_invoice.png | tier=pro | ip=127.0.0.1
+2026-05-03 12:15:37 | INFO     | endpoint=/parse-invoice | status=200 | latency=7224.18ms | key=pro-10d25e0b... | ip=127.0.0.1 | file=sample_invoice.png
+2026-05-03 13:50:07 | INFO     | Parsing invoice | file=sample_invoice.png | tier=pro | ip=127.0.0.1
+2026-05-03 13:50:16 | INFO     | endpoint=/parse-invoice | status=200 | latency=9041.78ms | key=pro-10d25e0b... | ip=127.0.0.1 | file=sample_invoice.png
+2026-05-03 14:23:02 | INFO     | Parsing invoice | file=sample_invoice.png | tier=pro | ip=127.0.0.1
+2026-05-03 14:23:11 | INFO     | endpoint=/parse-invoice | status=200 | latency=8749.07ms | key=pro-10d25e0b... | ip=127.0.0.1 | file=sample_invoice.png
