@@ -41,6 +41,8 @@ The fine-tuned model folder (`donut-finetuned/`) is **not** included in this rep
 1. Download the model folder from your **Google Drive backup**.
 2. Place the `donut-finetuned/` folder in the root directory of this project.
 
+Link : https://drive.google.com/drive/folders/1QT_Op9w2QmXJKWT59KgNxQCAHJi42STf?usp=drive_link
+
 ## 📖 Usage
 
 To process an invoice, run:
